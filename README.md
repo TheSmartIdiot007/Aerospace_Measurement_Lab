@@ -1,1 +1,1 @@
-# Aerospace_Measurement_Lab
+# Lab_1: Thermistor Reading and Calibration:
